@@ -1,0 +1,4 @@
+1 mobil
+2 splide
+3 fancybox
+4 hover
